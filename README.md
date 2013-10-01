@@ -8,3 +8,6 @@ Then edit your `.vimrc` as seen below:
 
     filetype plugin indent on
     let g:no_rust_conceal = 1
+
+
+    
